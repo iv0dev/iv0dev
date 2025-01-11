@@ -1,8 +1,1 @@
-## Hey 👋, This is Ivo
-[![Gmail Badge](https://img.shields.io/badge/-ivodev45@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivodev45@gmail.com)](mailto:ivodev45@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-iv0dev-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iv0dev/)](https://www.linkedin.com/in/iv0dev/) [![Github Badge](https://img.shields.io/badge/-iv0dev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/iv0dev/)](https://www.github.com/iv0dev/) [![Twitter Badge](https://img.shields.io/badge/-iv0dev-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/iv0dev/)](https://www.twitter.com/iv0dev/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://iv0dev.github.io/iv0dev-portfolio//)](https://iv0dev.github.io/iv0dev-portfolio//) <p align='left'>I'm a beginner frontend developer who wants to learn how to make websites and gain some experience. In addition, I'm learning Adobe Photoshop so that I can do some photos properly because I'm very interested in editing and making perfect photos. I have 19 years old and in the future I would like to work in professions such as frontend development and graphic design.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=iv0dev alt=iv0dev /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=iv0dev&show_icons=true&include_all_commits=true)](https://github.com/iv0dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iv0dev&layout=compact)](https://github.com/iv0dev/github-readme-stats)
