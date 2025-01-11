@@ -4,7 +4,7 @@
 
 ### Ivo Dev
 
-- **Zanimanje:** Nezaposlen trenutno
-- **Interesi:** Volim da radim web development i grafički dizajn
+-   **Zanimanje:** Nezaposlen trenutno
+-   **Interesi:** Volim da radim web development i grafički dizajn
 
 ---
