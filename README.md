@@ -1,16 +1,16 @@
-# 👋 Zdravo, ja sam Ivan Bošnjak!  
+# 👋 Hello, I'm Ivan!  
 
-🎨 **Web developer & grafički dizajner**  
-💻 **Full-stack developer | SA:MP skripter**  
-
----
-
-## 🚀 O meni  
-Web developer i grafički dizajner sa iskustvom u raznim tehnologijama. Pored web developmenta, bavim se i SA:MP skriptiranjem u Pawn jeziku. Volim istraživati nove tehnologije i raditi na zanimljivim projektima. 
+🎨 **Web developer & graphic designer**  
+💻 **Full-stack developer | SA:MP scripter**  
 
 ---
 
-## 🛠️ Tehnologije koje koristim  
+## 🚀 About me  
+Web developer and graphic designer with experience in various technologies. In addition to web development, I also do SA:MP scripting in Pawn. I love exploring new technologies and working on interesting projects. 
+
+---
+
+## 🛠️ Technologies I use
 
 ### 🌐 **Frontend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
@@ -23,30 +23,30 @@ Web developer i grafički dizajner sa iskustvom u raznim tehnologijama. Pored we
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Pawn](https://custom-icon-badges.herokuapp.com/badge/Pawn-DBB400.svg?style=flat-square&logo=pawn&logoColor=white)
 
-### 🗄️ **Baze podataka**  
+### 🗄️ **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 ---
 
-## 📌 Projekti  
+## 📌 Projects
 
-Uskoro ćete moći vidjeti projekte na mom profilu!
-
----
-
-## 📊 GitHub statistike  
-
-![Ivan's GitHub statistike](https://github-readme-stats.vercel.app/api?username=iv0dev&show_icons=true&theme=dark)  
-![Najčešće korišteni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=dark)  
+You will be able to see the projects on my profile soon!
 
 ---
 
-## 🌎 Kontakt  
+## 📊 GitHub statistics 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tvoj-profil)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tvoj.email@example.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tvojprofil)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/tvojprofil)  
+![Ivan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=iv0dev&show_icons=true&theme=dark)  
+![Most commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=dark)  
+
 ---
 
-Hvala što si posjetio moj profil! 🚀✨
+## 🌎 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iv0dev/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ivodev45@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iv0dev)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/iv0dev)  
+---
+
+Thank you for visiting my profile! 🚀✨
