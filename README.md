@@ -36,8 +36,8 @@ Uskoro ćete moći vidjeti projekte na mom profilu!
 
 ## 📊 GitHub statistike  
 
-![Ivan's GitHub statistike]([)  
-![Najčešće korišteni jezici](https://github-readme-stats.vercel.app/api?username=iv0dev&theme=dark&show_icons=true&hide_border=false&count_private=true) 
+![Ivan's GitHub statistike](https://github-readme-stats.vercel.app/api?username=iv0dev&show_icons=true&theme=dark)  
+![Najčešće korišteni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=dark)  
 
 ---
 
