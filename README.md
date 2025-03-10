@@ -21,7 +21,7 @@ Web developer i grafički dizajner sa iskustvom u raznim tehnologijama. Pored we
 ### 🖥️ **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Pawn](https://img.shields.io/badge/-Pawn-F7AC00?style=flat-square)  
+![Pawn](https://custom-icon-badges.herokuapp.com/badge/Pawn-DBB400.svg?style=flat-square&logo=pawn&logoColor=white)
 
 ### 🗄️ **Baze podataka**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
