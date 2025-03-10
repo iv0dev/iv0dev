@@ -29,10 +29,16 @@ Web developer and graphic designer with experience in various technologies. In a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
 
-### 🎨 Graphic design tools  
+### 🎨 **Graphic design tools**  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+
+### 🛠️ **3D modeling tools**  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
+![Cinema 4D](https://img.shields.io/badge/-Cinema_4D-1C1C1C?style=flat-square&logo=cinema%204d&logoColor=white)  
+![Maya](https://img.shields.io/badge/-Maya-8C8C8C?style=flat-square&logo=autodesk&logoColor=white)  
+![3ds Max](https://img.shields.io/badge/-3ds_Max-004F97?style=flat-square&logo=autodesk&logoColor=white)  
 
 ---
 
