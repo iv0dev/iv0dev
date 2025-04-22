@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ivan!  
+# 👋 Hello, I'm Ivan Bosnjak!  
 
 🎨 **Web developer & graphic designer**  
 💻 **Full-stack developer | SA:MP scripter**  
@@ -52,6 +52,13 @@ You will be able to see the projects on my profile soon!
 
 ![Ivan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=iv0dev&show_icons=true&theme=dark)  
 ![Most commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=dark)  
+
+---
+
+**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561199581703997/?cc=eu))*
+
+* **Value:** 38€
+* **Games owned:** 105
 
 ---
 
